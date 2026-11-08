@@ -1,6 +1,8 @@
 # G10 — rari-distributed-inference-bench
 
-**Status: PRIVATE CANDIDATE / NEWLY IMPLEMENTED BOUNDED UTILITY.** This is NOT the original unrecovered upstream G10 repository, and is NOT a scientific validation or a public release authorization.
+**Programme context.** Invariant Computing Lab — RARI bounded distributed inference. The source is a bounded candidate, not a recovered upstream original, independently validated physical or biological result, or automatically open-licensed software.
+
+**Status: PUBLICLY VISIBLE BOUNDED RESEARCH CANDIDATE / NEWLY IMPLEMENTED UTILITY.** This is NOT the original unrecovered upstream G10 repository, and is NOT a scientific validation or a public release authorization.
 
 ## Functionality
 
